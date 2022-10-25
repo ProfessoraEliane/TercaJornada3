@@ -1,7 +1,9 @@
 body {
     background-color:#1C1C1C;
 }
-
+header {
+    color: aliceblue;
+}
 .texto-principal {
     margin-right: 20%; 
 }
@@ -56,5 +58,3 @@ p {
 	color: blue;
 	text-decoration: underline;
 }
-
-1:32:39
