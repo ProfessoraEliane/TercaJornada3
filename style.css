@@ -4,6 +4,10 @@ body {
 header {
     color: aliceblue;
 }
+nav {
+    display: inline;
+
+}
 .texto-principal {
     margin-right: 20%; 
 }
