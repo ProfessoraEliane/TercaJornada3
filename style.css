@@ -4,7 +4,10 @@ body {
 
 header{
     background-color: white;
+}
 
+nav {
+    display: inline;
 }
 .texto-principal {
     margin-right: 20%; 
