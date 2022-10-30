@@ -9,6 +9,9 @@ header{
 nav li {
     display: inline;
 }
+nav a{
+    text-decoration: none;
+}
 .texto-principal {
     margin-right: 20%; 
 }
