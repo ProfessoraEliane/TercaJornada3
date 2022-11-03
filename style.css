@@ -5,7 +5,10 @@ body {
 header{
     background-color: white;
 }
-
+.menu {
+    position: relative;
+    bottom: 10vh;
+}
 nav li {
     display: inline;
     margin-right: 15px;
