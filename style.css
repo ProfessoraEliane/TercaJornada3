@@ -4,14 +4,25 @@ body {
 
 header{
     background-color: white;
+    padding: 20px 0;
 }
-
+.menu{
+    position: relative;
+    top: 0px;
+   
+}
+nav {
+    position: absolute;
+    top: 0px;
+     right: 0px;
+}
 nav li {
     display: inline;
     margin-right: 15px;
+    
 }
-nav a{
-	text-transform:uppercase;
+nav a{text-transform: uppercase;
+    font-weight: bold;
     text-decoration: none;
 }
 .texto-principal {
@@ -57,7 +68,7 @@ p {
 
 }
 #imagem-principal {
-    width: 10%;
+    width: 100px;
     margin-left: 80%;
     border: 5px dotted salmon;
     float: left;
