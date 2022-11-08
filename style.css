@@ -5,10 +5,7 @@ body {
 header{
     background-color: white;
 }
-.menu {
-    position: relative;
-    bottom: 10vh;
-}
+
 nav li {
     display: inline;
     margin-right: 15px;
@@ -66,7 +63,3 @@ p {
     position: absolute;
 }
 
-.itens {
-	color: blue;
-	text-decoration: underline;
-}
