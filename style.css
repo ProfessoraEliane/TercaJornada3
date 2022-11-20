@@ -9,6 +9,7 @@ header{
 .menu{
     position: relative;
     top: 0px;
+    width: 30%;
    
 }
 nav {
@@ -67,11 +68,3 @@ p {
     color:  #5F9EA0;
 
 }
-#imagem-principal {
-    width: 100px;
-    margin-left: 80%;
-    border: 5px dotted salmon;
-    float: left;
-    position: absolute;
-}
-
